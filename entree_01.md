@@ -11,4 +11,4 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 Mon intérêt a été piqué par les ordinateurs, mais surtout après mon cours d'**Arduino** au secondaire. Apprendre a jouer les jeux vidéo et visitant l'événement de porte ouverte m'a aider à me guider a ce domaine. Donc, je me suis inscrit pour le programme TIM. Selon moi, c'est un peu trop tôt pour avoir un cours qui me motiverait, mais le cours d'audio me semble le plus stimulant. J'espère me cheminer vers 🤔 
 - la conception et programmation des jeux vidéo,
 - mais je garde l'esprit ouvert à d'autres possibilités.
-- La production des sons dans les films, le mapping 3D et la muséologie sont aussi des chemins qui m'intéresser.
+- La production des sons dans les films, le mapping 3D et la muséologie sont aussi des chemins qui m'intéresse
