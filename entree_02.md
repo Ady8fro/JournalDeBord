@@ -6,7 +6,7 @@ Exemple:
 ### [Bulle](https://www.onf.ca/interactif/bulle/) 
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### [Rusty Lake Games]([http://www.google.fr/](https://www.rustylake.com/tag/rusty-lake-series/) "Rusty Lake Games")
+### [Rusty Lake Games](https://www.rustylake.com/tag/rusty-lake-series/) "Rusty Lake Games")
 RustyLake games est un de mes jeu preferer sur téléphone. C'est une jeu de puzzel, un peu comme un escape room qui donne la chair de poule. Ce qui m'a attirer à jouer preque tout les jeux de leur collection c'est l'aspet mysterieux de l'histoire et de l'objestif. 
 
 ### Lien 2 
