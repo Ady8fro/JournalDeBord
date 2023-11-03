@@ -25,17 +25,17 @@ Instalation, opération, entretien d'équipement et  superviser les doublage de 
 - Intéret négatif: long heure de travaille, ajout d'élément à la derniere minute san extension delais, beaucoup de répétition et peut de mouvement, isolation, 
 
 ### Emploi 4 - Spécialiste Multimedia
-- Taches:
-- Où:
-- Qualités:
-- Intéret positif:
-- Intéret négatif:
+- Taches: travailler sur video, web, animations, photography, audio, virtualité, avoir une relation avec les clients et prendre les besions en notes, travailler du concept à la réalisation, tester et mettre a jour programme, présenter design finale, diriger et superviser l'équipe de design 
+- Où: IT or video games companies, compagnie media ou de d'édition, contracteur
+- Qualités: connaissance en programmation et équipement technoligie, avoir une base en audio, photoshop et autre, créativité, bonne management skills et organisation bon problem solving
+- Intéret positif: choix de travail individuel ou en équipe, grand demande, travail a distance, grande posibilté de changement de projet,  
+- Intéret négatif: travail de bureau, peu de mouvement, nessécité d'un porfolio, 
 
 ### Emploi 5 - Editeur de film et video
-- Taches:
-- Où:
-- Qualités:
-- Intéret positif:
-- Intéret négatif:
+- Taches: assemblage et raffinement de video, synchroniser audio au video, decider version finale, assurer qualité, ajouter style et technique visuel, ajouter voice over et commentary, suggerer et ajouter music ou audio background, ajout de special effets au besion
+- Où: (compagnie) video traning, video music, badne-annonce, film et TV
+- Qualités: besoins backgroung en photographie, arts visuel, communication et medias, connaissances des dernieres technologies et techniques ou arts populaires, avoir un bon oeuil patience et concentration, faut avoir management skill
+- Intéret positif: etre dans le domaine de film, possibilité de rencontrer des célébrités, bon salaire, possibilté d'avoir un assistant, 
+- Intéret négatif: preiode de travail intesives, compétion, faut avoir un porfolio, temps de réalisation limité, nessécité de connections, beaucoup de pression, possibilité de manque de travail entre projets
 
 
