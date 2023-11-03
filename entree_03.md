@@ -5,7 +5,7 @@
 Je suis quelqu'un qui aime les arts, la science, les couleurs, jeux, puzzels, l'histoire et tout qui est interactif et à apprende. Je suis toujours en découverte de nouveauté.
 
 ### Intérêts dans le domaine
-J'aimerais travailler dans quelque chose artistique mais qui a un aspect de storytelling. Donc un film, un jeux, les evenement d'immersion ou une histoire. J'ai toujours aimé les films ou livres ou on peut voir les actions on des conséquces qui donne des reaction qui amène d'autres décisions et ainsi de suite. La collection des Dack pictures Anthologie de SupermassiveGames est selon moi un des meuillers examples. 
+J'aimerais travailler dans quelque chose artistique mais qui a un aspect de storytelling et apprendre. Donc un film, un jeux, les evenement d'immersion ou une histoire. J'ai toujours aimé les films ou livres ou on peut voir les actions on des conséquces qui donne des reaction qui amène d'autres décisions et ainsi de suite. La collection des Dack pictures Anthologie de SupermassiveGames est selon moi un des meuillers examples. 
 
 ### Emplois qui vous intéressent
 Plusieurs emplois sont super attirants dans ce domaine. Tecnitien d'effet sonores, concepteur/artist de storyboard, programeur, deigneur visuel pour en nommer des exemples.
