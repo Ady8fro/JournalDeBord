@@ -21,8 +21,8 @@ Instalation, opération, entretien d'équipement et  superviser les doublage de 
 - Taches: réaliser l'identité et besion d'un compagnie ou autre sur un site, créeer éléments graphiques ou animations, responsable pour la facilité, l'interactvité et l'organisation des éléments. Mettre à jour les sites, donner accesiblité pour plusieur platforme comme l'ecommerce sur cellulaire et autres. 
 - Où: perque tout maintenet on besoin de sites - donc on peut travailler pour n'importe qui
 - Qualités: organiser, avoir un eye artistique et d'analyse, pouvoir s'adapté au nouveautés, connaitres plusieurs langue de codage pour web, maitriser des logicelles
-- Intéret positif:
-- Intéret négatif:
+- Intéret positif: grande demande, travailler à distance, travaille d'équipe, flexibilité et haut salaire, amples d'opportunités
+- Intéret négatif: long heure de travaille, ajout d'élément à la derniere minute san extension delais, beaucoup de répétition et peut de mouvement, isolation, 
 
 ### Emploi 4 - Spécialiste Multimedia
 - Taches:
