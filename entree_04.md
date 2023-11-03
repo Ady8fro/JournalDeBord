@@ -11,31 +11,31 @@ Instalation, opération, entretien d'équipement et  superviser les doublage de 
 - Intéret négatif: posibilité de problème d'ouie après plusieur années d'exposition ou de mauvaise pratique, évolution rapide d'équipement, grande possibilité de travailler indépandament donc pas d'avantages sociaux, pas beaucoup de mouvement physique et beaucoup de repétition entre projets
 
 ### Emploi 2 - Opérateur de camera numérique
-Taches:
-Où:
-Qualités:
-Intéret positif:
-Intéret négatif:
+- Taches:
+- Où:
+- Qualités:
+- Intéret positif:
+- Intéret négatif:
 
 ### Emploi 3 - Designer Web / Concepteur Web
-Taches:
-Où:
-Qualités:
-Intéret positif:
-Intéret négatif:
+- Taches:
+- Où:
+- Qualités:
+- Intéret positif:
+- Intéret négatif:
 
 ### Emploi 4 - Spécialiste Multimedia
-Taches:
-Où:
-Qualités:
-Intéret positif:
-Intéret négatif:
+- Taches:
+- Où:
+- Qualités:
+- Intéret positif:
+- Intéret négatif:
 
 ### Emploi 5 - Editeur de film et video
-Taches:
-Où:
-Qualités:
-Intéret positif:
-Intéret négatif:
+- Taches:
+- Où:
+- Qualités:
+- Intéret positif:
+- Intéret négatif:
 
 
