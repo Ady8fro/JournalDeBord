@@ -18,9 +18,9 @@ Instalation, opération, entretien d'équipement et  superviser les doublage de 
 - Intéret négatif: deadlines et longues heures, souvent debout pour longue durée et équipements lourds, préssion des directeurs, peu de congé durant les temps de fêtes, grande competion
 
 ### Emploi 3 - Designer Web / Concepteur Web
-- Taches:
-- Où:
-- Qualités:
+- Taches: réaliser l'identité et besion d'un compagnie ou autre sur un site, créeer éléments graphiques ou animations, responsable pour la facilité, l'interactvité et l'organisation des éléments. Mettre à jour les sites, donner accesiblité pour plusieur platforme comme l'ecommerce sur cellulaire et autres. 
+- Où: perque tout maintenet on besoin de sites - donc on peut travailler pour n'importe qui
+- Qualités: organiser, avoir un eye artistique et d'analyse, pouvoir s'adapté au nouveautés, connaitres plusieurs langue de codage pour web, maitriser des logicelles
 - Intéret positif:
 - Intéret négatif:
 
