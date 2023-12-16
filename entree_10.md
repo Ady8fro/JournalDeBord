@@ -2,7 +2,8 @@
 ## Rétrospective de la présentation synthèse (1 à 2 lignes par question)
 
 ### Points forts de votre présentation 
-Nommer deux points forts de votre présentation.
+Point claires et directs
+
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
