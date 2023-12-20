@@ -19,3 +19,4 @@ La plus grande fonction sera l'aspect géolocalisation pour les notification d'e
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
 
+La programmation sera la plus grande tache a accomplir. La combinason de construire le system de géolocalisation, le code pour les rapelles, et le set up pour les fonctions de calendrier. Il y aura aussi l'aspect légale, le design graphiques générales, gestion de projet et bugetaire, conception sonore et modele.
