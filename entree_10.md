@@ -28,7 +28,7 @@ La formation de notre concept et notre gestion du temps était une difficulté (
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi?
 
-Si on parle pour les conférences - J'ai préféré celui du Moment Factory. Ca ma donner plus de rassurance de poursuivre ce domaine meme si je ne suis pas completement sure de mon cheminement et de me faire confiance. 
+Si on parle pour les conférences - J'ai préféré celui du Moment Factory. Ca ma donner plus de rassurance de poursuivre ce domaine meme si je ne suis pas completement sure de mon cheminement et de me faire plus confiance. 
 
 ## Rétrospective de la session
 ## Écris un retour sur ta session (1 à 2 lignes par question)
